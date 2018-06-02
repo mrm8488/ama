@@ -6,7 +6,7 @@
  <a href="../../issues/new">:speech_balloon: Ask a question</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../../issues?q=is%3Aissue+is%3Aall+sort%3Aupdated-desc">:book: Read questions</a>
 </h2>
 
-### Why:question:
+### Why :question:
 I get some questions by email (mrm8488@gmail.com), my [personal website](https://mrm8488.github.io/#contact), Reddit and so on. But **this way anyone can read the answer!** :eyes:
 
 Anything means *anything*. Professional and Personal. I could give you some advices specially (because I've more experience) in the following fields:
@@ -18,7 +18,7 @@ Anything means *anything*. Professional and Personal. I could give you some advi
 - SOA/Microservices
 - How to architect the software to build your bussines idea
 
-### Guidelines
+### Guidelines :triangular_ruler:
 
  - :mag: Ensure your question hasn't already been answered.
  - :memo: Use a succinct title and description.
